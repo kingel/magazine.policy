@@ -1,4 +1,11 @@
 <?xml version="1.0"?>
 <metadata>
   <version>1000</version>
+  <dependencies>
+       <dependency>profile-magazine.xdvtheme:default</dependency>
+       <dependency>profile-collective.addthis:default</dependency>
+       <dependency>profile-collective.disqus:default</dependency>
+       <dependency>profile-collective.blogging:default</dependency>
+       <dependency>profile-collective.contentleadimage:default</dependency>
+  </dependencies>
 </metadata>

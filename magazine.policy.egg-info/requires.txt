@@ -1,1 +1,6 @@
 setuptools
+magazine.xdvtheme
+collective.addthis
+collective.disqus
+collective.blogging
+collective.contentleadimage

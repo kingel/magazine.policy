@@ -25,6 +25,11 @@ setup(name='magazine.policy',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'magazine.xdvtheme',
+          'collective.addthis',
+          'collective.disqus',
+          'collective.blogging',
+          'collective.contentleadimage',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
